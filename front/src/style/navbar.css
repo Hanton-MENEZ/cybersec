@@ -1,0 +1,16 @@
+.navigation {
+    background-color: #F1ECCE;
+    display: flex;
+    gap: 5rem;
+}
+
+.navigation .item {
+    color: #28231C;
+    text-decoration: none;
+}
+
+.logo {
+    margin-left: 1rem;
+    width: 5%;
+    height: 5%;
+}
