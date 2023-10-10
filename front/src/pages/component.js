@@ -3,7 +3,7 @@ import { TextInput, FormButton } from "../components/formComponents";
 import { DataGrid } from '@mui/x-data-grid';
 import axios from 'axios'
 
-const api = 'http://10.0.3.1:8001';
+const api = 'http://10.0.1.3:8001';
 
 const columns = [
     { field: 'id', headerName: 'ID', width: 70 },
